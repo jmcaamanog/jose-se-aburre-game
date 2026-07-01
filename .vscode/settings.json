@@ -1,0 +1,12 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^\\$path = 'c:\\\\Users\\\\Jose\\\\OneDrive\\\\1_HOBBIES\\\\004_PROYECTOS\\\\000_proyectos\\\\083_PROGRAMACION PYTHON\\\\000_GITHUB\\\\006_JOSE SE ABURRE\\\\jose-se-aburre-game'; Set-Location \\$path; python -c \"from pathlib import Path; import re; text = Path\\('CODE/JOSE SE ABURRE\\.py'\\)\\.read_text\\(encoding='utf-8'\\); m = re\\.search\\(r'<script>\\(\\.\\*\\?\\)</script>', text, re\\.S\\); Path\\('temp_script\\.js'\\)\\.write_text\\(m\\.group\\(1\\), encoding='utf-8'\\); print\\('Script extracted'\\)\"; node --check temp_script\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd \"c:\\\\Users\\\\Jose\\\\OneDrive\\\\1_HOBBIES\\\\004_PROYECTOS\\\\000_proyectos\\\\083_PROGRAMACION PYTHON\\\\000_GITHUB\\\\006_JOSE SE ABURRE\\\\jose-se-aburre-game\"; & \"C:\\\\Users\\\\Jose\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python\\.exe\" \"C:/Users/Jose/OneDrive/1_HOBBIES/004_PROYECTOS/000_proyectos/083_PROGRAMACION PYTHON/000_GITHUB/006_JOSE SE ABURRE/jose-se-aburre-game/CODE/JOSE SE ABURRE\\.py\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
