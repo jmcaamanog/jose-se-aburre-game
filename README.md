@@ -1,8 +1,15 @@
 # Jose Se Aburre - Space Survival 🚀🌌
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/jose-se-aburre-game?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/jose-se-aburre-game?style=flat-square&color=green)
+
 (Arquitecto Técnico_JMC) Porque no todo va a ser auditar modelos BIM e IFC. Este es un minijuego de supervivencia espacial desarrollado en un rato libre usando HTML5, Vanilla JS y TailwindCSS. Genera nombres de sectores e informes de misión de forma local, sin depender de ninguna API externa.
 
 ## 🚀 Características Principales
