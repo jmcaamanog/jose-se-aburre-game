@@ -4,6 +4,9 @@
 | :--- | :--- |
 | ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=plastic) <br> ![Hardware](https://img.shields.io/badge/Hardware---grey?style=plastic) <br> ![Platform](https://img.shields.io/badge/Platform-Web-blue?style=plastic) <br> ![Language](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5&logoColor=white&style=plastic) <br> ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic) | ![Stars](https://img.shields.io/github/stars/jmcaamanog/jose-se-aburre-game?style=plastic&color=yellow&logo=github) <br> ![License](https://img.shields.io/github/license/jmcaamanog/jose-se-aburre-game?style=plastic&color=green) |
 
+| 🏗️ Perfil & ConTech | 📈 Repositorio & Enlaces |
+| :--- | :--- |
+
 (Arquitecto Técnico_JMC) Porque no todo va a ser auditar modelos BIM e IFC. Este es un minijuego de supervivencia espacial desarrollado en un rato libre usando HTML5, Vanilla JS y TailwindCSS. Genera nombres de sectores e informes de misión de forma local, sin depender de ninguna API externa.
 
 ## 🚀 Características Principales
