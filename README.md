@@ -1,15 +1,8 @@
 # Jose Se Aburre - Space Survival 🚀🌌
 
-![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=flat-square)
-![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
-![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
-![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)
-![Language](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Stars](https://img.shields.io/github/stars/jmcaamanog/jose-se-aburre-game?style=flat-square&color=yellow&logo=github)
-![License](https://img.shields.io/github/license/jmcaamanog/jose-se-aburre-game?style=flat-square&color=green)
+| 🏗️ Perfil & ConTech | 📈 Repositorio & Enlaces |
+| :--- | :--- |
+| ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=plastic) <br> ![Hardware](https://img.shields.io/badge/Hardware---grey?style=plastic) <br> ![Platform](https://img.shields.io/badge/Platform-Web-blue?style=plastic) <br> ![Language](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5&logoColor=white&style=plastic) <br> ![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic) | ![Stars](https://img.shields.io/github/stars/jmcaamanog/jose-se-aburre-game?style=plastic&color=yellow&logo=github) <br> ![License](https://img.shields.io/github/license/jmcaamanog/jose-se-aburre-game?style=plastic&color=green) |
 
 (Arquitecto Técnico_JMC) Porque no todo va a ser auditar modelos BIM e IFC. Este es un minijuego de supervivencia espacial desarrollado en un rato libre usando HTML5, Vanilla JS y TailwindCSS. Genera nombres de sectores e informes de misión de forma local, sin depender de ninguna API externa.
 
@@ -49,14 +42,10 @@ Al ser un juego basado enteramente en el lado del cliente (Client-side), ponerlo
 - Haz clic o toca para disparar.
 - Recoge power-ups para mejorar tu supervivencia.
 
-
 ## 👨‍💻 Autor
 
-Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
-Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
+**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager
+Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)
 
 Hecho con código y café desde A Coruña. ☕
-
-Jose Manuel Caamaño González | [LinkedIn](https://www.linkedin.com/in/jmcaamanog/)
-
-Añádelo al *Stage*, ponle un buen mensaje al *Commit* y súbelo a la red. Y si de verdad logras pasar del sector 5 con esas singularidades inestables, ¡tienes mis respetos como piloto!
+[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.pages.dev)
